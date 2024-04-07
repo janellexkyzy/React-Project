@@ -1,7 +1,5 @@
 # React + Vite 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+____
+Hello! I used Axios, React.js, React-redux, Redux-toolkid with (Platzi Fake Store API) [https://fakeapi.platzi.com/]
 
-Currently, two official plugins are available:
-
-● @vitejs/plugin-react uses Babel for Fast Refresh
-● @vitejs/plugin-react-swc uses SWC for Fast Refresh
+You can see it (here) [https://main--chic-caramel-7afa4b.netlify.app/]
